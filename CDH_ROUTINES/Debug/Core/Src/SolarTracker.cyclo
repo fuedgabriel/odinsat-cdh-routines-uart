@@ -1,0 +1,3 @@
+../Core/Src/SolarTracker.c:11:6:Solar_Init	2
+../Core/Src/SolarTracker.c:24:10:Solar_Normalize	3
+../Core/Src/SolarTracker.c:31:6:Solar_Process	18

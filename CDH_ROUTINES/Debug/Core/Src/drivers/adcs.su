@@ -1,0 +1,13 @@
+../Core/Src/drivers/adcs.c:50:6:ADCS_Init	32	static
+../Core/Src/drivers/adcs.c:100:6:ADCS_SendCommand	16	static
+../Core/Src/drivers/adcs.c:109:6:ADCS_SetSpeed	32	static
+../Core/Src/drivers/adcs.c:142:6:ADCS_Stop	16	static
+../Core/Src/drivers/adcs.c:158:6:ADCS_ReadSensors	24	static
+../Core/Src/drivers/adcs.c:201:7:ADCS_PID_Compute	40	static
+../Core/Src/drivers/adcs.c:232:6:ADCS_PID_Reset	16	static
+../Core/Src/drivers/adcs.c:245:6:ADCS_Process	32	static
+../Core/Src/drivers/adcs.c:315:9:ADCS_GetCurrentSpeed	4	static
+../Core/Src/drivers/adcs.c:323:9:ADCS_GetTargetSpeed	4	static
+../Core/Src/drivers/adcs.c:331:9:ADCS_IsMotorActive	4	static
+../Core/Src/drivers/adcs.c:339:9:ADCS_IsSensorReady	4	static
+../Core/Src/drivers/adcs.c:347:9:ADCS_GetIMU	4	static

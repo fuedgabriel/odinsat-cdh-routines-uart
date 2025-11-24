@@ -1,0 +1,4 @@
+../Core/Src/drivers/can_driver.c:17:6:CAN_Init	8	static
+../Core/Src/drivers/can_driver.c:29:6:CAN_Transmit	56	static
+../Core/Src/drivers/can_driver.c:49:9:CAN_GetMessage	24	static,ignoring_inline_asm
+../Core/Src/drivers/can_driver.c:75:6:HAL_FDCAN_RxFifo0Callback	32	static

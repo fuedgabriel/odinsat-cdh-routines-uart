@@ -1,0 +1,14 @@
+../Core/Src/drivers/uart_protocol.c:42:9:CalculateChecksum	24	static
+../Core/Src/drivers/uart_protocol.c:66:6:UART_Transmit	296	static
+../Core/Src/drivers/uart_protocol.c:98:16:UART_Receive	288	static
+../Core/Src/drivers/uart_protocol.c:171:6:Check_Payload_Response	280	static
+../Core/Src/drivers/uart_protocol.c:242:6:UART_StartMission1	272	static
+../Core/Src/drivers/uart_protocol.c:259:6:UART_StartMission2	272	static
+../Core/Src/drivers/uart_protocol.c:278:6:UART_SendAISData	280	static
+../Core/Src/drivers/uart_protocol.c:296:6:UART_ProcessMission	48	static
+../Core/Src/drivers/uart_protocol.c:409:9:UART_GetOilDetected	4	static
+../Core/Src/drivers/uart_protocol.c:417:7:UART_GetOilAreaPercentage	4	static
+../Core/Src/drivers/uart_protocol.c:425:10:UART_GetShipMMSI	4	static
+../Core/Src/drivers/uart_protocol.c:433:7:UART_GetShipOriginLat	4	static
+../Core/Src/drivers/uart_protocol.c:441:7:UART_GetShipOriginLon	4	static
+../Core/Src/drivers/uart_protocol.c:449:9:UART_IsMissionComplete	4	static

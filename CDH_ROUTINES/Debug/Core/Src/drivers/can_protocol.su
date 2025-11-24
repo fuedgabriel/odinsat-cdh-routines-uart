@@ -1,0 +1,15 @@
+../Core/Src/drivers/can_protocol.c:28:6:CAN_Protocol_Init	8	static
+../Core/Src/drivers/can_protocol.c:45:6:CAN_Protocol_ProcessMessages	24	static
+../Core/Src/drivers/can_protocol.c:84:6:CAN_HandleModeCommand	24	static
+../Core/Src/drivers/can_protocol.c:150:6:CAN_HandleAISData	16	static
+../Core/Src/drivers/can_protocol.c:162:6:CAN_HandleEPSTelemetry	16	static
+../Core/Src/drivers/can_protocol.c:211:6:CAN_Protocol_SendCDHStatus	24	static
+../Core/Src/drivers/can_protocol.c:229:21:CAN_GetCurrentMode	4	static
+../Core/Src/drivers/can_protocol.c:234:15:CAN_GetMissionType	4	static
+../Core/Src/drivers/can_protocol.c:239:9:CAN_IsModeActive	4	static
+../Core/Src/drivers/can_protocol.c:247:10:CAN_GetCellVoltage	16	static
+../Core/Src/drivers/can_protocol.c:253:10:CAN_GetCellDepthDischarge	16	static
+../Core/Src/drivers/can_protocol.c:259:10:CAN_GetSolarVoltage_1_2	4	static
+../Core/Src/drivers/can_protocol.c:264:10:CAN_GetSolarVoltage_3_4	4	static
+../Core/Src/drivers/can_protocol.c:269:10:CAN_GetSolarCurrent_1_2	4	static
+../Core/Src/drivers/can_protocol.c:274:10:CAN_GetSolarCurrent_3_4	4	static
